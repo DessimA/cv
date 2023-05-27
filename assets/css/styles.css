@@ -1,0 +1,36 @@
+/* @falvojr: Start of the CSS file */
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", sans-serif;    
+  }
+  
+  /* @falvojr: Adjusted the width of the left column */
+  .w3-third {
+    width: 30%;
+  }
+  
+  /* @falvojr: The class 'w3-text-theme' has been replaced by 'w3-text-teal' */
+  .w3-text-teal {
+    color: #00cdb8!important;
+  }
+  /* @falvojr: End of the CSS file */
+  
+  .profile {
+    text-align: center;
+  }
+  
+  .profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .profile h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #434343;
+  }
+  
+  
